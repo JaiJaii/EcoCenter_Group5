@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EcoCenter_Group5.View.ActionView">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#6B8A7A">
+            <Frame BorderColor="#6B8A7A"  
+                   BackgroundColor="#FFFFFF">
+                <StackLayout>
+
+                    <Grid VerticalOptions="CenterAndExpand" Margin="0,0,0,20">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Entry x:Name="txtDescription" 
+                               Placeholder="Enter Description"
+                               HorizontalOptions="FillAndExpand" 
+                               TextColor="Black" 
+                               BackgroundColor="Transparent" 
+                               FontSize="Small"
+                               Grid.Column="1"/>
+                    </Grid>
+
+                    <Grid VerticalOptions="CenterAndExpand" Margin="0,0,0,20">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Entry x:Name="txtCategory" 
+                               Placeholder="Enter Category" 
+                               HorizontalOptions="FillAndExpand" 
+                               TextColor="Black" 
+                               BackgroundColor="Transparent" 
+                               FontSize="Small" 
+                               Grid.Column="1"/>
+                    </Grid>
+
+
+                    <Grid VerticalOptions="CenterAndExpand" Margin="0,0,0,20">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Picker x:Name="txtImpactLevel" 
+                                Title="Select Impact Level" 
+                                HorizontalOptions="FillAndExpand" 
+                                TextColor="Black" 
+                                BackgroundColor="Transparent" 
+                                FontSize="Small" 
+                                Grid.Column="1">
+                            <Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>Low</x:String>
+                                    <x:String>Medium</x:String>
+                                    <x:String>High</x:String>
+                                    <x:String>Extreme</x:String>
+                                </x:Array>
+                            </Picker.ItemsSource>
+                        </Picker>
+                    </Grid>
+
+                    <Grid VerticalOptions="CenterAndExpand" Margin="0,0,0,20">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Picker x:Name="txtFrequency" 
+                                Title="Select Frequency" 
+                                HorizontalOptions="FillAndExpand" 
+                                TextColor="#008000" 
+                                BackgroundColor="Transparent" 
+                                FontSize="Small" 
+                                Grid.Column="1">
+                            <Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>Always</x:String>
+                                    <x:String>Often</x:String>
+                                    <x:String>Sometimes</x:String>
+                                    <x:String>Rarely</x:String>
+                                </x:Array>
+                            </Picker.ItemsSource>
+                        </Picker>
+                    </Grid>
+                </StackLayout>
+            </Frame>
+
+            <Button Text="Save" 
+                   Clicked="btnSaveUpdate_Clicked"
+                   TextColor="#6B8A7A"
+                   WidthRequest="300"
+                   HorizontalOptions="Center"
+                   VerticalOptions="EndAndExpand"
+                   BackgroundColor="White"
+                   FontSize="Small"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

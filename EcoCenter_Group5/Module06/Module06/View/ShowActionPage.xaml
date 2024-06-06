@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EcoCenter_Group5.View.ShowActionPage">
+
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Image Source="drawable/listsbg.png" 
+                   Aspect="AspectFill"
+                   AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                   AbsoluteLayout.LayoutFlags="All" />
+
+            <Grid AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                  AbsoluteLayout.LayoutFlags="All"
+                  Padding="10">
+
+                <!-- Define row definitions -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <!-- Content area (Grid and ListView) -->
+                <StackLayout Grid.Row="0">
+                    <!-- Grid for Labels -->
+                    <Grid BackgroundColor="#706D3F" Margin="0,0,0,10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Text="Action Code" 
+                               TextColor="White"
+                               FontAttributes="Bold"
+                               Grid.Row="0"
+                               Grid.Column="0" 
+                               VerticalOptions="Center" 
+                               HorizontalTextAlignment="Center"/>
+                        <Label Text="Description" 
+                               TextColor="White" 
+                               FontAttributes="Bold"
+                               Grid.Row="0" 
+                               Grid.Column="1" 
+                               VerticalOptions="Center"
+                               HorizontalTextAlignment="Center"/>
+                        <Label Text="Category" 
+                               TextColor="White" 
+                               FontAttributes="Bold" 
+                               Grid.Row="0" 
+                               Grid.Column="2" 
+                               VerticalOptions="Center" 
+                               HorizontalTextAlignment="Center"/>
+                        <Label Text="Impact Level" 
+                               TextColor="White" 
+                               FontAttributes="Bold" 
+                               Grid.Row="0"
+                               Grid.Column="3"  
+                               VerticalOptions="Center"
+                               HorizontalTextAlignment="Center"/>
+                        <Label Text="Frequency"
+                               TextColor="White"
+                               FontAttributes="Bold" 
+                               Grid.Row="0"
+                               Grid.Column="4" 
+                               VerticalOptions="Center" 
+                               HorizontalTextAlignment="Center"/>
+                    </Grid>
+
+                    <!-- ListView for Data -->
+                    <ListView x:Name="lstData" HasUnevenRows="True" ItemSelected="lsData_ItemSelected">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Frame>
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="Auto"/>
+                                            </Grid.RowDefinitions>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Label Text="{Binding ActionCode}" 
+                                                   Grid.Row="0" 
+                                                   Grid.Column="0"/>
+                                            <Label Text="{Binding Description}" 
+                                                   Grid.Row="0" 
+                                                   Grid.Column="1" 
+                                                   HorizontalTextAlignment="Start"/>
+                                            <Label Text="{Binding Category}"
+                                                   Grid.Row="0" 
+                                                   Grid.Column="2" 
+                                                   HorizontalTextAlignment="Center"/>
+                                            <Label Text="{Binding ImpactLevel}" 
+                                                   Grid.Row="0" 
+                                                   Grid.Column="3" 
+                                                   HorizontalTextAlignment="Center"/>
+                                            <Label Text="{Binding Frequency}" 
+                                                   Grid.Row="0" 
+                                                   Grid.Column="4" 
+                                                   HorizontalTextAlignment="Center"/>
+                                        </Grid>
+                                    </Frame>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+
+                <!-- Add New Record Button -->
+                <Button Text="Add New Record" 
+                        BackgroundColor="White" 
+                        Clicked="btnAddRecord" 
+                        VerticalOptions="End" 
+                        HorizontalOptions="Center"
+                        WidthRequest="300"
+                        TextColor="#6B8A7A"
+                        Grid.Row="1"/>
+            </Grid>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

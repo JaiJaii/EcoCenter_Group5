@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EcoCenter_Group5.CollectionPage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#F6EEE0">
+            <CollectionView x:Name="ActionView">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout BackgroundColor="Aqua">
+                            <Image Source="{Binding ActionCode}"
+                       HeightRequest="100"/>
+                            <Label Text="{Binding Description}"
+                       TextColor="#A45C40"
+                       FontSize="Subtitle"
+                       HorizontalOptions="Center"/>
+                            <Label Text="{Binding Category}"
+                       TextColor="#C38370"
+                       HorizontalOptions="Center"
+                       Margin="0, 0, 0, 20"/>
+                            <Label Text="{Binding ImpactLevel}"
+                        TextColor="#C38370"
+                        HorizontalOptions="Center"
+                        Margin="0, 0, 0, 20"/>
+                            <Label Text="{Binding Frequency}"
+                        TextColor="#C38370"
+                        HorizontalOptions="Center"
+                        Margin="0, 0, 0, 20"/>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Button Text="What is this?"
+        TextColor="Black"
+        Clicked="Btn_DisplayAlert"
+        BackgroundColor="#F6EEE0"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

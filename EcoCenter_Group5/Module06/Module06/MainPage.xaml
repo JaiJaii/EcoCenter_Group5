@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EcoCenter_Group5.MainPage">
+
+
+    <StackLayout>
+        <!-- Background Image -->
+        <Image Source="drawable/homebg.png" 
+            Aspect="AspectFill"
+            AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+            AbsoluteLayout.LayoutFlags="All" />
+        <!-- CRUD Button -->
+        <Button Text="List Page"
+                 Clicked="CRUDPage"
+                 WidthRequest="300"
+                 HorizontalOptions="Center"
+                 VerticalOptions="EndAndExpand"
+                 BackgroundColor="White"
+                 TextColor="#6B8A7A"/>
+
+
+    </StackLayout>
+
+</ContentPage>

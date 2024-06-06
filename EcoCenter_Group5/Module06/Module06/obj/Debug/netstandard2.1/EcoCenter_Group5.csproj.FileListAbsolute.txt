@@ -1,0 +1,66 @@
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.csproj.AssemblyReference.cache
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.GeneratedMSBuildEditorConfig.editorconfig
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\CollectionPage.xaml.g.cs
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\View\ActionView.xaml.g.cs
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\View\ShowActionPage.xaml.g.cs
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.AssemblyInfoInputs.cache
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.AssemblyInfo.cs
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.csproj.CoreCompileInputs.cache
+C:\xamarin\Module06\Module06\Module06\bin\Debug\netstandard2.1\EcoCenter_Group5.deps.json
+C:\xamarin\Module06\Module06\Module06\bin\Debug\netstandard2.1\EcoCenter_Group5.dll
+C:\xamarin\Module06\Module06\Module06\bin\Debug\netstandard2.1\ref\EcoCenter_Group5.dll
+C:\xamarin\Module06\Module06\Module06\bin\Debug\netstandard2.1\EcoCenter_Group5.pdb
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\XamlC.stamp
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.dll
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\refint\EcoCenter_Group5.dll
+C:\xamarin\Module06\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.pdb
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.csproj.AssemblyReference.cache
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\App.xaml.g.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\View\ActionView.xaml.g.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\View\ShowActionPage.xaml.g.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.AssemblyInfoInputs.cache
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.AssemblyInfo.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.csproj.CoreCompileInputs.cache
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.dll
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\refint\EcoCenter_Group5.dll
+F:\Codes\College year 3\PDC03\EcoCenter_Group5v3\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.pdb
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.csproj.AssemblyReference.cache
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\App.xaml.g.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\CollectionPage.xaml.g.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\View\ActionView.xaml.g.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\View\ShowActionPage.xaml.g.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.AssemblyInfoInputs.cache
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.AssemblyInfo.cs
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.csproj.CoreCompileInputs.cache
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.dll
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\refint\EcoCenter_Group5.dll
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.pdb
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\bin\Debug\netstandard2.1\EcoCenter_Group5.deps.json
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\bin\Debug\netstandard2.1\EcoCenter_Group5.dll
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\bin\Debug\netstandard2.1\ref\EcoCenter_Group5.dll
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\bin\Debug\netstandard2.1\EcoCenter_Group5.pdb
+F:\Codes\College year 3\PDC03\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\XamlC.stamp
+C:\xamarin\EcoCenter_Group5\Module06\Module06\bin\Debug\netstandard2.1\EcoCenter_Group5.deps.json
+C:\xamarin\EcoCenter_Group5\Module06\Module06\bin\Debug\netstandard2.1\EcoCenter_Group5.dll
+C:\xamarin\EcoCenter_Group5\Module06\Module06\bin\Debug\netstandard2.1\ref\EcoCenter_Group5.dll
+C:\xamarin\EcoCenter_Group5\Module06\Module06\bin\Debug\netstandard2.1\EcoCenter_Group5.pdb
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.csproj.AssemblyReference.cache
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.GeneratedMSBuildEditorConfig.editorconfig
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\CollectionPage.xaml.g.cs
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\View\ActionView.xaml.g.cs
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\View\ShowActionPage.xaml.g.cs
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.AssemblyInfoInputs.cache
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.AssemblyInfo.cs
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.csproj.CoreCompileInputs.cache
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\XamlC.stamp
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.dll
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\refint\EcoCenter_Group5.dll
+C:\xamarin\EcoCenter_Group5\Module06\Module06\obj\Debug\netstandard2.1\EcoCenter_Group5.pdb
